@@ -1,8 +1,7 @@
 edit participante A
 
-<<<<<<< HEAD
 modifiacion participante A
-=======
+
 edit de fede gaudino
->>>>>>> c20f3c18e5d99dc735b8f3f7bf0eee7c967e128e
+
 
